@@ -1,4 +1,4 @@
-# ML_DL_DaskPytorchTensorflowRapids
+# ML/DL with PyTorch, TensorFlow and Rapids on a Dask cluster
 
 Packages, tools, templates and documentation for distributed maschine- and deep learning.
 
