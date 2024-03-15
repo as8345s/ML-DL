@@ -11,4 +11,5 @@ It provides a wide range of functionality. Dask will run and monitor the Cluster
 
 -----
 I will sort out some files and focus on PyTorch DL later. 
+The Project and the information about it are still in work.
 
